@@ -1,8 +1,9 @@
 //
-//  SwiftUIView.swift
-//  
+//  ColorfulBlobs.swift
+//
 //
 //  Created by Kovs on 02.08.2023.
+//  Copyright © 2023 CodingKovs. All rights reserved.
 //
 
 import SwiftUI
