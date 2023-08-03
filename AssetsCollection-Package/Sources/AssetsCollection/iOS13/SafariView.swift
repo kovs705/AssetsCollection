@@ -1,5 +1,5 @@
 //
-//  SafariView.swift
+// MARK: Safari View module
 //
 //
 //  Created by Kovs on 02.08.2023.

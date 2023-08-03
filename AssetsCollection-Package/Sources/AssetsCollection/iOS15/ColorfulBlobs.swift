@@ -1,5 +1,5 @@
 //
-//  ColorfulBlobs.swift
+// MARK: Colorful blobs background
 //
 //
 //  Created by Kovs on 02.08.2023.
