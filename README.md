@@ -1,6 +1,6 @@
 
 # AssetsCollection
-My assets collection of Colors, Images and so on for iOS projects, I will also make a readme of items inside and other stuff too, soon
+My assets collection of Colors, Images and so on for my iOS projects
 
 ## Structure
 This repository has 2 parts: 
